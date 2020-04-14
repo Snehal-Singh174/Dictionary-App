@@ -1,4 +1,4 @@
-# sndictionary
+# SN-Dictionary
 
 A new Flutter application.
 
